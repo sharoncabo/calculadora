@@ -1,0 +1,105 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5em;
+    text-align: center;
+}
+
+
+html, body{
+    margin-left: 10px;
+    background-color: aqua;
+}
+.cuadro1{
+    border-radius: 10px;
+    outline: none;
+    border: black;
+
+    height: 10em;
+    width: 10em;
+
+    margin-left: 10em;
+    margin-right: 2em;
+}
+.cuadro4{
+    border-radius: 10px;
+    outline: none;
+    border: black;
+
+    height: 10em;
+    width: 10em;
+
+    margin-left: 10em;
+}
+.cuadro2{
+    border-radius: 10px;
+    outline: none;
+    border: black;
+
+    height: 10em;
+    width: 10em;
+
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.cuadro5{
+    border-radius: 10px;
+    outline: none;
+    border: black;
+
+    height: 10em;
+    width: 10em;
+
+    margin-left: 7.6em;
+}
+.cuadro3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-orientation: upright;
+    font-size: 5em;
+    outline: none;
+    border: black;
+    margin-left: 3em;
+    background-color: aqua;
+}
+.cuadro6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-orientation: upright;
+    font-size: 5em;
+    outline: none;
+    border: black;
+    margin-left: 3.5em;
+    background-color: aqua;
+}
+
+.igual{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-orientation: upright;
+    font-size: 5em;
+    outline: none;
+    border: black;
+    margin-left: 0em;
+    background-color: aqua;
+}
+.resultado{
+    border-radius: 10px;
+    outline: none;
+    border: black;
+
+    height: 5em;
+    width: 5em;
+
+    margin-left: 2em;
+}
+
+button {
+    font-size: 2em;
+    margin-left: 3em;
+}
+
+#respuesta {
+        font-size: 3em;
+        font-weight: bold;
+
+        /* border: 1px solid red;
+        padding: 20px; */
+}
+
